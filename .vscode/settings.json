@@ -1,0 +1,7 @@
+{
+  "markdown.marp.themes": [
+    "./themes/thws-sts.css",
+    "./themes/thws.css",
+    "./themes/thws-pr.css"
+  ]
+}

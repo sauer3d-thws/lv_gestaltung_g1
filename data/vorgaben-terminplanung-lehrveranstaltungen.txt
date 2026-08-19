@@ -1,0 +1,114 @@
+Für deine Lehrveranstaltung **„Gestaltung und Design G1“** (jeweils mittwochs, 10:00 – 11:30 Uhr, Raum C.2.05) wurden **12 Termine** im Wintersemester 2026/2027 identifiziert:
+
+* **07.10.2026** – Kickoff & Themenfindung
+* **28.10.2026** – Fotoanalyse & RAW-Workflow
+* **04.11.2026** – Photoshop: Bildoptimierung & Dynamik
+* **11.11.2026** – Photoshop: Präzises Freistellen & Maskieren
+* **18.11.2026** – Photoshop: Visual Look, Grading & Retusche
+* **25.11.2026** – InDesign: Großformat-Setup & Rastersysteme
+* **02.12.2026** – InDesign: Typografische Hierarchie & Copywriting
+* **09.12.2026** – InDesign: Fortgeschrittene Layouttechniken
+* **16.12.2026** – Zwischen-Pitch & Art Direction Review
+* **23.12.2026** – Layout-Feinschliff & Detailtypografie
+* **13.01.2027** – Preflight, Farbmanagement & Druck-PDF
+* **20.01.2027** – Demo Day: Plakat-Vernissage & Reflexion
+
+---
+
+### Das Lehrkonzept nach dem Alpha-Prinzip
+
+Jede 90-minütige Einheit (2 SWS) gliedert sich in drei klare Abschnitte:
+
+1. **15 Min. Theorie-Flash:** Knackige visuelle Inputs zu Designgesetzen, Typografie, Wahrnehmungspsychologie oder Druckvorstufe.
+2. **60 Min. Studio-Sprint & KI-Tutor:** Die Studierenden lösen Software-Herausforderungen eigenständig mithilfe von KI-Tutoring (Prompting von Workflows, Tastaturkürzeln und Klickpfaden).
+3. **15 Min. Art-Director-Check-in:** Du gibst gezieltes Feedback zu Konzept und Gestaltung – nicht zu Klickwegen.
+
+---
+
+### Semesterplan: 12 Termine im Detail
+
+#### Block 1: Konzept, Storytelling & Fotografie
+
+##### Termin 1: 07.10.2026 – Kickoff, Storytelling & Motivwahl
+
+* **15 Min. Theorie:** *Was macht ein Plakat stark?* Fernwirkung vs. Nahwirkung, Eyecatcher-Prinzip und Storytelling bei „Mein Lieblingsort“.
+* **KI- & Software-Übung:** Brainstorming & Moodboard. Studierende prompten ein LLM als Konzept-Sparringspartner (*„Hilf mir, die visuelle Stimmung eines verlassenen Bahngleises in 3 Design-Schlagwörter und eine Farbpalette zu übersetzen“*).
+* **Auftrag bis Termin 2:** 20–30 hochauflösende Smartphone-Fotos des gewählten Orts aufnehmen (Detail, Halbtotale, Totale, verschiedene Lichtstimmungen).
+
+##### Termin 2: 28.10.2026 – Bildanalyse & RAW-Entwicklung
+
+* **15 Min. Theorie:** *Bildausschnitt & Komposition.* Drittel-Regel, Goldener Schnitt, Führungslinien und Kontrastverhältnisse.
+* **KI- & Software-Übung (Photoshop / Camera Raw):** Import der Handy-Fotos, Tonwertkorrektur, Tiefen/Lichter und Schärfen im Camera-RAW-Filter. Die Studierenden lassen sich von der KI Prompt-Leitfäden für die Entrauschung und Dynamik-Anpassung geben.
+* **Guide-Fokus:** Bildauswahl-Feedback. Welches Foto trägt das Plakat als Hauptmotiv?
+
+---
+
+#### Block 2: Bildbearbeitung & Compositing in Photoshop
+
+##### Termin 3: 04.11.2026 – Nicht-destruktive Bildbearbeitung
+
+* **15 Min. Theorie:** *Farbpsychologie & Lichtführung.* Wie Farben Emotionen für den Lieblingsort transportieren (warm vs. kühl, Entsättigung vs. Akzentfarbe).
+* **KI- & Software-Übung (Photoshop):** Arbeiten mit Einstellungsebenen, Schnittmasken und Gradationskurven. Schnelles Beheben von Unter-/Überbelichtungen via KI-Hilfe (*„Wie isoliere ich Schatten in Gradationskurven, ohne die Mitten zu verändern?“*).
+* **Guide-Fokus:** Bildstimmung schärfen – wirkt das Motiv flach oder hat es Tiefe?
+
+##### Termin 4: 11.11.2026 – Freistellen & Maskierungstechniken
+
+* **15 Min. Theorie:** *Figur-Grund-Trennung.* Gestaltgesetze der Wahrnehmung und visuelle Ebenen im Plakat.
+* **KI- & Software-Übung (Photoshop):** Zeichenstift-Werkzeug (Pfade), Objektauswahl, Masken verfeinern (Haare/Kanten) und Smart-Objekte. Studierende nutzen KI, um Shortcuts und Pinsel-Dynamiken für Masken einzustellen.
+* **Guide-Fokus:** Kantenqualität und saubere Freisteller prüfen.
+
+##### Termin 5: 18.11.2026 – Visual Look, Retusche & Grading
+
+* **15 Min. Theorie:** *Bildharmonie & Störemelente eliminieren.* Blickführung gezielt steuern.
+* **KI- & Software-Übung (Photoshop):** Bereichsreparatur-Pinsel, Ausbessern-Werkzeug, Generatives Erweitern / Entfernen für Plakathintergründe und Erstellen eines einheitlichen Color-Gradings über Verlaufsumsetzungen.
+* **Guide-Fokus:** Finale Freigabe des Key-Visuals für den Wechsel zu InDesign.
+
+---
+
+#### Block 3: Layout, Rastersysteme & Typografie in InDesign
+
+##### Termin 6: 25.11.2026 – DIN A1 Setup & Rastersysteme
+
+* **15 Min. Theorie:** *Ordnung im Raum.* Satzspiegel, Randabstände bei Großformaten (594 × 841 mm), Modularraster und Spaltenaufteilung.
+* **KI- & Software-Übung (InDesign):** Neuanlage DIN A1 mit 3 mm Anschnitt (Bleed), Einrichten eines 6- oder 12-Spalten-Rasters mit Grundlinienraster via Hilfslinien-Erstellung.
+* **Guide-Fokus:** Prüfen der Proportionen: Haben die Ränder genug „Luft“ für ein Großplakat?
+
+##### Termin 7: 02.12.2026 – Typografische Hierarchie & Textgestaltung
+
+* **15 Min. Theorie:** *Typografie auf Distanz.* Headline (3–5 m), Subline (1–2 m), Fließtext/Copy (Lesedistanz). Schriftmischung (Serif vs. Sans).
+* **KI- & Software-Übung (InDesign):** Erstellen von Textrahmen, Definieren von Zeichen- und Absatzformaten, optischem Randausgleich. Die Studierenden lassen sich von einem LLM kurze, prägnante Copytexte zu ihrem Lieblingsort formulieren und redigieren.
+* **Guide-Fokus:** Prüfen der Schriftgrößenrelationen und Kontraste zwischen Bild und Typo.
+
+##### Termin 8: 09.12.2026 – Bild-Text-Integration & Effekte
+
+* **15 Min. Theorie:** *Mikrotypografie & Weißraum.* Zeilenabstand, Laufweite, Textumfluss und der Mut zur leeren Fläche.
+* **KI- & Software-Übung (InDesign):** Verknüpfungs-Bedienfeld managen (Smart-Objekt/PSD-Platzierung), Textumfluss um freigestellte Photoshop-Pfade, Transparenzeffekte.
+* **Guide-Fokus:** Harmonisches Zusammenspiel von Photoshop-Grafik und InDesign-Text.
+
+---
+
+#### Block 4: Review, Reinzeichnung & Druckvorstufe
+
+##### Termin 9: 16.12.2026 – Zwischen-Pitch (Peer-to-Peer Review)
+
+* **15 Min. Theorie:** *Kriterien professioneller Design-Kritik.* Wie gebe und empfange ich konstruktives Feedback?
+* **Studio-Ablauf:** Speed-Pitching in 3er-Gruppen. Jede/r stellt das Plakat in 2 Minuten vor; die Gruppe prüft anhand einer Design-Checkliste (Lesbarkeit, Hierarchie, Bildqualität).
+* **Guide-Fokus:** Kuratierung und Steuerung der Feedback-Runden.
+
+##### Termin 10: 23.12.2026 – Layout-Feinschliff & Detailoptimierung
+
+* **15 Min. Theorie:** *Detailtypografie.* Silbentrennung, Hurenkinder/Schusterjungen, Sonderzeichen (Geviertstriche, echte Anführungszeichen).
+* **KI- & Software-Übung (InDesign):** Grep-Stile einrichten, Trennungsregeln optimieren, manuelle Korrekturen an Textumbrüchen.
+* **Guide-Fokus:** 1-on-1 Detailberatung vor der Weihnachtspause.
+
+##### Termin 11: 13.01.2027 – Preflight & Druck-PDF (PDF/X)
+
+* **15 Min. Theorie:** *Druckvorstufe Basics.* RGB vs. CMYK, effektive ppi bei Großformaten (150–200 ppi vs. 300 ppi), Farbauftrag und PDF/X-Standards (PDF/X-4).
+* **KI- & Software-Übung (InDesign):** Preflight-Profil anlegen (Warnung bei fehlenden Schriften, RGB-Farbräumen oder niedriger Auflösung), Anschnittprüfung, PDF/X-4-Export mit Schnittmarken.
+* **Guide-Fokus:** Technische Freigabe der Druckdaten.
+
+##### Termin 12: 20.01.2027 – Demo Day & Plakat-Vernissage
+
+* **15 Min. Theorie:** *Portfolio-Präsentation.* Wie präsentiere ich Designarbeiten vor Kunden?
+* **Studio-Ablauf:** Digitale Plakat-Vernissage (z. B. via Beamer / Großscreen oder Plakatausdruck). Jeder Studierende präsentiert in 90 Sekunden: (1) Motiv/Ort, (2) Layout-Entscheidungen, (3) eine gelöste Software-Hürde via KI.
+* **Abschluss:** Gemeinsame Reflexion und Feedbackrunde.
