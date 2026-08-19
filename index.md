@@ -134,6 +134,25 @@ h1, h2, h3, p, strong {
 
 ---
 
+---
+<!-- _class: structural -->
+
+
+# Aufgabenstellung: Plakatdesign
+### Semesteraufgabe „Mein Lieblingsort“
+
+- **Format & Ausgabe:**
+  - Großformatplakat **DIN A1** (594 × 841 mm, 3 mm Anschnitt).
+  - Zweifache Abgabe: **Digital** (PDF/X-4 & InDesign-Paket) und **Gedruckt**
+- **Thema:**
+  - *„Mein Lieblingsort“* (in Würzburg oder am eigenen Heimat-/Wohnort).
+- **Bildmaterial & Perspektiven:**
+  - **Mindestens 5 eigene Fotos** im finalen Layout integriert.
+  - Abwechslungsreicher Perspektiven-Mix: *Totale, Halbtotale und Detailaufnahmen*.
+- **Texte & Typografie:**
+  - Kurze, prägnante Copy (Headline, Subline, kurze Ortsbeschreibung/Fakten).
+
+---
 
 
 ---
