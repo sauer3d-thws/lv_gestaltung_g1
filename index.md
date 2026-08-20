@@ -145,7 +145,7 @@ h1, h2, h3, p, strong {
 ---
 
 ---
-<!-- _class: structural -->
+<!-- _class: structural small-tex-->
 
 
 # Aufgabenstellung: Plakatdesign
@@ -158,12 +158,28 @@ h1, h2, h3, p, strong {
   - *„Mein Lieblingsort“* (in Würzburg oder am eigenen Heimat-/Wohnort).
 - **Bildmaterial & Perspektiven:**
   - **Mindestens 5 eigene Fotos** im finalen Layout integriert.
-  - Abwechslungsreicher Perspektiven-Mix: *Totale, Halbtotale und Detailaufnahmen*.
+  - Abwechslungsreicher Perspektiven-Mix: *Totale, Halbtotale & Detail*
 - **Texte & Typografie:**
-  - Kurze, prägnante Copy (Headline, Subline, kurze Ortsbeschreibung/Fakten).
+  - Kurze, prägnante Copy (Headline, Subline, kurze Ortsbeschreibung/Fakten)
+
 
 ---
 
+<!-- _class: small-text fullwidth -->
+
+| Termin | Datum | Thema & Meilenstein | Abgabe im E-Learning | Format |
+| :---: | :---: | :--- | :--- | :---: |
+| **T01** | 07.10. | Konzept & Moodboard | Moodboard zum Lieblingsort (Farben, Keywords) | PDF / PPTX |
+| **T02** | 28.10. | RAW-Entwicklung | 3–5 entwickelte Bildmotive (Belichtung, Schärfe) | `.psd` |
+| **T03** | 04.11. | Farbe & Schnittmasken | Finales Hauptmotiv mit Schnittmasken & Kurven | `.psd` |
+| **T04** | 11.11. | Freistellen & Maskieren | Freigestelltes Bildelement als Smart-Objekt | `.psd` |
+| **T05** | 18.11. | Retusche & Look | Bereinigte & gegradete Bilder mit Textfreiräumen | `.psd` |
+| **T06** | 25.11. | InDesign A1 Setup | Dokument-Setup (`k-nummer_name_A1_layout_setup.indd`) | `.indd` |
+| **T07** | 02.12. | Zwischenpräsentation | Ausgefüllter Peer-Feedbackbogen / Kriterienmatrix | Foto / JPG |
+| **T08** | 09.12. | Typografie auf Distanz | Aktualisierter Plakat-Zwischenstand mit Schrifthierarchie | PDF |
+| **T09** | 16.12. | Text-Bild-Fusion & Links | Integriertes Plakatlayout mit nativem PSD-Link | PDF |
+| **T10** | 23.12. | **Endabgabe vor Druck** | **Druckfertiges Plakat (Frist: 23.12., 23:59 Uhr)** | **PDF/X** |
+| **T11** | 13.01. | **Vernissage & Demo Day** | Digitales Gesamtpaket (InDesign-Paket + Bericht) | ZIP / Paket |
 
 ---
 

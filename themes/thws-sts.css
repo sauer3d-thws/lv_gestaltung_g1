@@ -846,6 +846,41 @@ section.text-80 pre {
   width: 80%;
 }
 
+/* -------------------- CLASS: fullwidth (Volle Folienbreite) -------------------------------*/
+
+section.fullwidth,
+section.full-width {
+  width: 100%;
+}
+
+section.fullwidth h1,
+section.fullwidth h2,
+section.fullwidth h3,
+section.fullwidth h4,
+section.fullwidth p,
+section.fullwidth ul,
+section.fullwidth ol,
+section.fullwidth table,
+section.fullwidth pre,
+section.full-width h1,
+section.full-width h2,
+section.full-width h3,
+section.full-width h4,
+section.full-width p,
+section.full-width ul,
+section.full-width ol,
+section.full-width table,
+section.full-width pre {
+  width: 1080px !important;
+  max-width: 100% !important;
+}
+
+section.fullwidth table,
+section.full-width table {
+  width: 1080px !important;
+  display: table !important;
+}
+
 /* -------------------- CLASS: Kapitelende -------------------------------*/
 
 section.Kapitelende,
