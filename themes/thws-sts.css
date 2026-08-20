@@ -32,7 +32,7 @@
   /* Orange für Foliennummern */
   --verytiny: 12px;
   --tiny: 16px;
-  --small: 20px;
+  --small: 18px;
   --default: 22px;
   --large: 26px;
 }
@@ -319,17 +319,40 @@ ol li::marker {
   font-weight: light;
 }
 
+/* Original vor Optimierung:
 ul li ul li {
   position: relative;
   list-style-type: none;
   padding-left: 24px;
+}
+ul li ul li:before {
+  content: "➔";
+  position: absolute;
+  top: 2px;
+  left: -2px;
+  color: #FF6a00;
+  font-size: 18px;
+}
+*/
+
+/* Verschachtelte Liste kompakter einrücken */
+ul ul {
+  padding-left: 8px;
+  margin-left: 0;
+}
+
+ul li ul li {
+  position: relative;
+  list-style-type: none;
+  padding-left: 20px;
+  text-indent: 0;
 }
 
 ul li ul li:before {
   content: "➔";
   position: absolute;
   top: 2px;
-  left: -2px;
+  left: 0;
   color: #FF6a00;
   font-size: 18px;
 }
