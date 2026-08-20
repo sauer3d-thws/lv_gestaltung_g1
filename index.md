@@ -1830,7 +1830,7 @@ h1, h2, h3, p, strong {
 
 <!-- _class: img-right small-text -->
 
-# T11 · 3) Zielerreichung & Semesterabschluss
+# T11 Zielerreichung & Semesterabschluss
 ### Welche Ergebnisse müssen vorliegen?
 
 - **Finale Abgabe-Checkliste:**
