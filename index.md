@@ -175,8 +175,8 @@ h1, h2, h3, p, strong {
 | **T04** | 11.11. | Freistellen & Maskieren | Freigestelltes Bildelement als Smart-Objekt | `.psd` |
 | **T05** | 18.11. | Retusche & Look | Bereinigte & gegradete Bilder mit Textfreiräumen | `.psd` |
 | **T06** | 25.11. | InDesign A1 Setup | Dokument-Setup (`k-nummer_name_A1_layout_setup.indd`) | `.indd` |
-| **T07** | 02.12. | Zwischenpräsentation | Ausgefüllter Peer-Feedbackbogen / Kriterienmatrix | Foto / JPG |
-| **T08** | 09.12. | Typografie auf Distanz | Aktualisierter Plakat-Zwischenstand mit Schrifthierarchie | PDF |
+| **T07** | 02.12. | Typografie auf Distanz | Aktualisierter Plakat-Zwischenstand mit Schrifthierarchie | PDF |
+| **T08** | 09.12. | Zwischenpräsentation | Ausgefüllter Peer-Feedbackbogen / Kriterienmatrix | Foto / JPG |
 | **T09** | 16.12. | Text-Bild-Fusion & Links | Integriertes Plakatlayout mit nativem PSD-Link | PDF |
 | **T10** | 23.12. | **Endabgabe vor Druck** | **Druckfertiges Plakat (Frist: 23.12., 23:59 Uhr)** | **PDF/X** |
 | **T11** | 13.01. | **Vernissage & Demo Day** | Digitales Gesamtpaket (InDesign-Paket + Bericht) | ZIP / Paket |
@@ -213,11 +213,11 @@ h1, h2, h3, p, strong {
 ---
 <!-- _class: structural -->
 
-- **Block 3: Layout, Raster & Zwischenpräsentation (InDesign)**
+- **Block 3: Layout, Raster & Typografie (InDesign)**
   - Termin 6 (25.11.): DIN A1 Setup & Rastersysteme
-  - Termin 7 (02.12.): Zwischenpräsentation & Review (Erste Ergebnisse)
-- **Block 4: Typografie, Feinschliff & Vernissage**
-  - Termin 8 (09.12.): Typografische Hierarchie & Textgestaltung
+  - Termin 7 (02.12.): Typografische Hierarchie & Textgestaltung
+- **Block 4: Zwischenpräsentation, Feinschliff & Vernissage**
+  - Termin 8 (09.12.): Zwischenpräsentation & Review (Erste Ergebnisse)
   - Termin 9 (16.12.): Bild-Text-Integration & Effekte
   - Termin 10 (23.12.): Layout-Feinschliff & Detailtypografie
   - Termin 11 (13.01.): Demo Day & Plakat-Vernissage (Endpräsentation)
@@ -1030,7 +1030,7 @@ $\rightarrow$ Abgabe aller Bilder als psd im Elearning
 <!-- _class: structural center large-text -->
 
 # Block 3
-### Layout, Rastersysteme & Zwischenpräsentation in InDesign
+### Layout, Rastersysteme & Typografie in InDesign
 #### Termine 06 & 07
 
 ---
@@ -1176,7 +1176,7 @@ $\rightarrow$ Abgabe aller Bilder als psd im Elearning
 - **Aufgabenstellung:**
   - Lege ein neues Dokument an: **DIN A1**, 1 Seite,
   Anschnitt 3 mm rundum.
-  - Richte auf der **Musterseite A** ein 12-Spalten-Raster
+  - Richte auf der **Musterseite A** ein (12-Spalten-) Raster
   mit 5 mm Spaltenabstand ein.
   - Definiere ein Grundlinienraster (passend zur
   späteren Grundschrift).
@@ -1214,123 +1214,8 @@ $\rightarrow$ Abgabe aller Bilder als psd im Elearning
 $\rightarrow$ Abgabe der InDesign-Datei im Elearning
 
 ---
-## Aufgabe für den nächsten Termin
-
-Alle bisher erstellten Inhalte ausgedruckt in DIN A3 mitbringen!
-- Bilder
-- Titelbild
-- Kurze Texte
-- Feedbackbogen (siehe nächste Seite)
-- Raster aus Indesign
--> Raster sichtbar aus InDesign exportieren & drucken
-
-Halten Sie ebenso alle erstellten Inhalte sauber strukturiert im V-Laufwerk / thws-cloud bereit.
-
----
-
-<!-- _class: small-text -->
-
-# Feedbackbogen: Zwischenpräsentation
-
-- Ist der Lieblingsort emotional spürbar? __________________________________
-Zieht das Motiv innerhalb von 3s den Blick an? _________________________
-- Sitzen Goldener Schnitt / Drittel-Regel? _________________________________
-Führen Linien & Fluchtpunkte den Blick gezielt?
-- Stimmiges Farbklima (warm/kühl)? Komplementärkontrast? _____________
-- Saubere Freistellung ohne Halos/Farbsäume? ___________________________
-Gestaltgesetze & Ebenenstaffelung wirksam?
-- Bildraum entrümpelt (kein Störrauschen)? _______________________________
-Konsistentes Color-Grading? Textfreiräume da?
-- 12-Spalten-Raster erkennbar? __________________________________________
-Stege mit min. 25–40 mm Luft? 3 mm Anschnitt angelegt?
-- Top 3 ToDos:
-
-
----
-
-<!-- _class: structural -->
-
-# Termin 07: Zwischenpräsentation & Art Review
+# Termin 07: Typografische Hierarchie & Text
 ### 02.12.2026 · Block 3
-
-- **Fokus:** Peer-to-Peer Feedback, Kriterienmatrix & Design-Kritik
-- **Format:** Speed-Pitching & Art-Direction Review
-- **Ablauf:**
-  1. Theorie: Professionelle Design-Kritik (Kriterien statt Geschmack)
-  2. Praxis: 2-Minuten-Pitch in 3er-Gruppen anhand der Checkliste
-  3. Zielerreichung: Schriftliches Feedbackprotokoll für den Feinschliff
-
----
-
-<!-- _class: img-right -->
-
-# T07 Theorie: Design-Kritik
-### Feedback professionell geben & empfangen
-
-- **Deskriptiv statt wertend:**
-  - Nicht *„Gefällt mir nicht“*, sondern *„Die Subline konkurriert im Kontrast mit der Gebäude-Kante“*.
-- **Die 4 Säulen des Plakat-Checks:**
-  1. **Story & Idee:** Wird der Lieblingsort spürbar?
-  2. **Hierarchie & Lesbarkeit:** Stimmt die Leserichtung?
-  3. **Bildqualität & Schnitt:** Sitzen Masken und Bilddetails?
-  4. **Komposition:** Ist das Layout ausbalanciert?
-
-![Design Kritik](img/22_design_kritik.jpg)
-
-###### **Peer Review** <br> Konstruktives Feedback schärft den Blick für Details und Fehler.
-
----
-
-<!-- _class: img-right small-text -->
-
-# T07 Praxis: Speed-Pitching im Studio
-### Strukturierte Peer-Reviews im Team
-
-- **Ablauf des Sprints:**
-  - **3 Min.:** Designer/in pitcht das Plakat
-  (Konzept, Hürden, Zielgruppe).
-  - **5 Min.:** Publikum analysiert das Layout, gibt konstruktives Feedback
-  - **2 Min.:** Konsolidierung der 3 wichtigsten Handlungsempfehlungen.
-
-
-![Pitching](img/23_pitching.jpg)
-
-###### **Studio-Sprint** <br> Schnelle Feedbackschleifen decken tote Winkel in der Gestaltung auf.
-
----
-
-<!-- _class: img-right small-text -->
-
-# T07 ·Zielerreichung & Check-in
-### Welche Ergebnisse müssen vorliegen?
-
-- **Ergebnis-Checkliste:**
-  - [ ] Plakat-Zwischenstand im Pitch präsentiert.
-  - [ ] Ausgefüllter Feedbackbogen
-  - [ ] Konkrete To-Do-Liste mit priorisierten Korrekturpunkten erstellt.
-- **Art-Director-Check:**
-  - Wurden fundamentale Konzeptschwächen vor der Detailtypografie identifiziert?
-
-$\rightarrow$ Abgabe der Checkliste als Foto im Elearning.
-
-![Feedback ToDo](img/24_feedback_todo.jpg)
-
-###### **Deliverable T07** <br> Verbindliche Roadmap für den typografischen Feinschliff.
-
----
-
-<!-- _class: structural center large-text -->
-
-# Block 4
-### Typografie, Bild-Text-Integration, Feinschliff & Vernissage
-#### Termine 08, 09, 10 & 11
-
----
-
-<!-- _class: structural -->
-
-# Termin 08: Typografische Hierarchie & Text
-### 09.12.2026 · Block 4
 
 - **Fokus:** Lesedistanzen, Schriftmischung & KI-Copywriting
 - **Software:** Adobe InDesign + LLM-Textassistenz
@@ -1343,7 +1228,7 @@ $\rightarrow$ Abgabe der Checkliste als Foto im Elearning.
 
 <!-- _class: img-right -->
 
-# T08 Theorie: Typo auf Distanz
+# T07 Theorie: Typo auf Distanz
 ### Die drei Informationsebenen
 
 - **Ebene 1: Headline (Fernbereich 3–5 m)**
@@ -1428,7 +1313,7 @@ $\rightarrow$ Abgabe der Checkliste als Foto im Elearning.
 ---
 <!-- _class: img-right small-text -->
 
-# T08 Praxis: Formate & KI-Copywriting
+# T07 Praxis: Formate & KI-Copywriting
 ### Absatzformate einrichten & Texte schleifen
 
 - **Aufgabenstellung:**
@@ -1455,7 +1340,7 @@ $\rightarrow$ Abgabe der Checkliste als Foto im Elearning.
 
 <!-- _class: img-right small-text -->
 
-# T08 Zielerreichung & Check-in
+# T07 Zielerreichung & Check-in
 ### Welche Ergebnisse müssen vorliegen?
 
 - **Ergebnis-Checkliste:**
@@ -1471,6 +1356,118 @@ $\rightarrow$ Abgabe der Checkliste als Foto im Elearning.
 $\rightarrow$ Abgabe des aktualisierten Plakates im PDF-Format im Elearning.
 
 ![Hierarchie Check](img/18_hierarchie_check.jpg)
+
+---
+## Aufgabe für den nächsten Termin
+
+Alle bisher erstellten Inhalte ausgedruckt in DIN A3 mitbringen!
+- Bilder
+- Titelbild
+- Kurze Texte
+- Feedbackbogen (siehe nächste Seite)
+- Raster aus Indesign
+-> Raster sichtbar aus InDesign exportieren & drucken
+
+Halten Sie ebenso alle erstellten Inhalte sauber strukturiert im V-Laufwerk / thws-cloud bereit.
+
+---
+
+<!-- _class: small-text -->
+
+# Feedbackbogen: Zwischenpräsentation
+
+- Ist der Lieblingsort emotional spürbar? __________________________________
+Zieht das Motiv innerhalb von 3s den Blick an? _________________________
+- Sitzen Goldener Schnitt / Drittel-Regel? _________________________________
+Führen Linien & Fluchtpunkte den Blick gezielt?
+- Stimmiges Farbklima (warm/kühl)? Komplementärkontrast? _____________
+- Saubere Freistellung ohne Halos/Farbsäume? ___________________________
+Gestaltgesetze & Ebenenstaffelung wirksam?
+- Bildraum entrümpelt (kein Störrauschen)? _______________________________
+Konsistentes Color-Grading? Textfreiräume da?
+- 12-Spalten-Raster erkennbar? __________________________________________
+Stege mit min. 25–40 mm Luft? 3 mm Anschnitt angelegt?
+- Top 3 ToDos:
+
+
+---
+
+<!-- _class: structural center large-text -->
+
+# Block 4
+### Zwischenpräsentation, Bild-Text-Integration, Feinschliff & Vernissage
+#### Termine 08, 09, 10 & 11
+
+---
+
+<!-- _class: structural -->
+
+# Termin 08: Zwischenpräsentation & Art Review
+### 09.12.2026 · Block 4
+
+- **Fokus:** Peer-to-Peer Feedback, Kriterienmatrix & Design-Kritik
+- **Format:** Speed-Pitching & Art-Direction Review
+- **Ablauf:**
+  1. Theorie: Professionelle Design-Kritik (Kriterien statt Geschmack)
+  2. Praxis: 2-Minuten-Pitch in 3er-Gruppen anhand der Checkliste
+  3. Zielerreichung: Schriftliches Feedbackprotokoll für den Feinschliff
+
+---
+
+<!-- _class: img-right -->
+
+# T08 Theorie: Design-Kritik
+### Feedback professionell geben & empfangen
+
+- **Deskriptiv statt wertend:**
+  - Nicht *„Gefällt mir nicht“*, sondern *„Die Subline konkurriert im Kontrast mit der Gebäude-Kante“*.
+- **Die 4 Säulen des Plakat-Checks:**
+  1. **Story & Idee:** Wird der Lieblingsort spürbar?
+  2. **Hierarchie & Lesbarkeit:** Stimmt die Leserichtung?
+  3. **Bildqualität & Schnitt:** Sitzen Masken und Bilddetails?
+  4. **Komposition:** Ist das Layout ausbalanciert?
+
+![Design Kritik](img/22_design_kritik.jpg)
+
+###### **Peer Review** <br> Konstruktives Feedback schärft den Blick für Details und Fehler.
+
+---
+
+<!-- _class: img-right small-text -->
+
+# T08 Praxis: Speed-Pitching im Studio
+### Strukturierte Peer-Reviews im Team
+
+- **Ablauf des Sprints:**
+  - **3 Min.:** Designer/in pitcht das Plakat
+  (Konzept, Hürden, Zielgruppe).
+  - **5 Min.:** Publikum analysiert das Layout, gibt konstruktives Feedback
+  - **2 Min.:** Konsolidierung der 3 wichtigsten Handlungsempfehlungen.
+
+
+![Pitching](img/23_pitching.jpg)
+
+###### **Studio-Sprint** <br> Schnelle Feedbackschleifen decken tote Winkel in der Gestaltung auf.
+
+---
+
+<!-- _class: img-right small-text -->
+
+# T08 ·Zielerreichung & Check-in
+### Welche Ergebnisse müssen vorliegen?
+
+- **Ergebnis-Checkliste:**
+  - [ ] Plakat-Zwischenstand im Pitch präsentiert.
+  - [ ] Ausgefüllter Feedbackbogen
+  - [ ] Konkrete To-Do-Liste mit priorisierten Korrekturpunkten erstellt.
+- **Art-Director-Check:**
+  - Wurden fundamentale Konzeptschwächen vor der Detailtypografie identifiziert?
+
+$\rightarrow$ Abgabe der Checkliste als Foto im Elearning.
+
+![Feedback ToDo](img/24_feedback_todo.jpg)
+
+###### **Deliverable T08** <br> Verbindliche Roadmap für den typografischen Feinschliff.
 
 ---
 
