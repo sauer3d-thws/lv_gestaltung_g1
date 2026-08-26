@@ -807,24 +807,32 @@ footer {
 }
 
 /* Styling des Links */
-footer a {
+footer a,
+section footer a,
+section.large-text footer a,
+section.small-text footer a,
+section.tiny-text footer a {
   font-family: "Inter", sans-serif;
-  font-size: 10px;
+  font-size: 14px !important;
   /* Gleiche Größe wie Seitenzahl */
   font-weight: 300;
-  color: var(--page-number-color);
+  color: var(--page-number-color) !important;
   /* Grau (#CDCDCD) im Normalzustand */
-  text-decoration: none;
+  text-decoration: none !important;
   /* Keine Unterstreichung */
   transition: color 0.3s;
   /* Weicher Farbübergang */
 }
 
 /* Hover-Effekt (Maus drüber) */
-footer a:hover {
-  color: var(--header-color);
+footer a:hover,
+section footer a:hover,
+section.large-text footer a:hover,
+section.small-text footer a:hover,
+section.tiny-text footer a:hover {
+  color: var(--header-color) !important;
   /* Wird Orange (#FF6a00) */
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 /* Footer auf der Titelseite und bei Vollbild-Bildern ausblenden */

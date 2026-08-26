@@ -3,6 +3,7 @@ marp: true
 theme: thws-sts
 paginate: true
 header: '**Gestaltung und Design G1** <br> FOL Stefan Sauer'
+footer: '[Zurück zur Übersicht](#9)'
 math: mathjax
 ---
 
@@ -143,9 +144,7 @@ h1, h2, h3, p, strong {
 ![Guides not Teachers](img/alpha_02_guides_not_teachers.jpg)
 
 ---
-
----
-<!-- _class: structural small-tex-->
+<!-- _class: structural small-text -->
 
 
 # Aufgabenstellung: Plakatdesign
@@ -162,6 +161,32 @@ h1, h2, h3, p, strong {
 - **Texte & Typografie:**
   - Kurze, prägnante Copy (Headline, Subline, kurze Ortsbeschreibung/Fakten)
 
+
+---
+
+<!-- _class: structural -->
+
+# Inhaltsverzeichnis
+### Übersicht der 4 Hauptblöcke & Termine
+
+- **[Block 1: Konzept, Storytelling & Fotografie](#15)**
+  - [Termin 01: Kickoff, Storytelling & Motivwahl](#16) (07.10.)
+  - [Termin 02: Bildanalyse & RAW-Entwicklung](#27) (28.10.)
+- **[Block 2: Bildbearbeitung & Compositing in Photoshop](#36)**
+  - [Termin 03: Nicht-destruktive Bildbearbeitung & Farbe](#37) (04.11.)
+  - [Termin 04: Freistellen & Maskieren](#45) (11.11.)
+  - [Termin 05: Visual Look, Retusche & Grading](#53) (18.11.)
+
+---
+<!-- _class: structural -->
+- **[Block 3: Layout, Rastersysteme & Typografie in InDesign](#61)**
+  - [Termin 06: DIN A1 Setup & Rastersysteme](#62) (25.11.)
+  - [Termin 07: Typografische Hierarchie & Textgestaltung](#72) (02.12.)
+- **[Block 4: Zwischenpräsentation, Feinschliff & Vernissage](#82)**
+  - [Termin 08: Zwischenpräsentation & Art Review](#83) (09.12.)
+  - [Termin 09: Bild-Text-Integration & Effekte](#87) (16.12.)
+  - [Termin 10: Layout-Feinschliff & Detailtypografie](#96) (23.12.)
+  - [Termin 11: Demo Day & Vernissage](#104) (13.01.)
 
 ---
 
@@ -226,6 +251,7 @@ h1, h2, h3, p, strong {
 
 <!-- _class: structural center large-text -->
 
+<a id="block-1"></a>
 # Block 1
 ### Konzept, Storytelling & Fotografie
 #### Termine 01 & 02
@@ -234,6 +260,7 @@ h1, h2, h3, p, strong {
 
 <!-- _class: structural -->
 
+<a id="termin-01"></a>
 # Termin 01: Kickoff, Storytelling & Motivwahl
 ### 07.10.2026 · Block 1
 
@@ -406,6 +433,7 @@ https://gestaltenlernen.ch/plakatgeschichte/
 
 <!-- _class: structural -->
 
+<a id="termin-02"></a>
 # Termin 02: Bildanalyse & RAW-Entwicklung
 ### 28.10.2026 · Block 1
 
@@ -582,6 +610,7 @@ https://gestaltenlernen.ch/plakatgeschichte/
 
 <!-- _class: structural center large-text -->
 
+<a id="block-2"></a>
 # Block 2
 ### Bildbearbeitung & Compositing in Photoshop
 #### Termine 03, 04 & 05
@@ -590,6 +619,7 @@ https://gestaltenlernen.ch/plakatgeschichte/
 
 <!-- _class: structural -->
 
+<a id="termin-03"></a>
 # Termin 03: Nicht-destruktive Bildbearbeitung
 ### 04.11.2026 · Block 2
 
@@ -741,6 +771,7 @@ https://gestaltenlernen.ch/plakatgeschichte/
 
 <!-- _class: structural -->
 
+<a id="termin-04"></a>
 # Termin 04: Freistellen & Maskieren
 ### 11.11.2026 · Block 2
 
@@ -887,6 +918,7 @@ $\rightarrow$ Abgabe Bild mit Smart-Objekt als psd im Elearning
 
 <!-- _class: structural -->
 
+<a id="termin-05"></a>
 # Termin 05: Visual Look, Retusche & Grading
 ### 18.11.2026 · Block 2
 
@@ -1029,6 +1061,7 @@ $\rightarrow$ Abgabe aller Bilder als psd im Elearning
 
 <!-- _class: structural center large-text -->
 
+<a id="block-3"></a>
 # Block 3
 ### Layout, Rastersysteme & Typografie in InDesign
 #### Termine 06 & 07
@@ -1037,6 +1070,7 @@ $\rightarrow$ Abgabe aller Bilder als psd im Elearning
 
 <!-- _class: structural -->
 
+<a id="termin-06"></a>
 # Termin 06: DIN A1 Setup & Rastersysteme
 ### 25.11.2026 · Block 3
 
@@ -1214,6 +1248,7 @@ $\rightarrow$ Abgabe aller Bilder als psd im Elearning
 $\rightarrow$ Abgabe der InDesign-Datei im Elearning
 
 ---
+<a id="termin-07"></a>
 # Termin 07: Typografische Hierarchie & Text
 ### 02.12.2026 · Block 3
 
@@ -1394,6 +1429,7 @@ Stege mit min. 25–40 mm Luft? 3 mm Anschnitt angelegt?
 
 <!-- _class: structural center large-text -->
 
+<a id="block-4"></a>
 # Block 4
 ### Zwischenpräsentation, Bild-Text-Integration, Feinschliff & Vernissage
 #### Termine 08, 09, 10 & 11
@@ -1402,6 +1438,7 @@ Stege mit min. 25–40 mm Luft? 3 mm Anschnitt angelegt?
 
 <!-- _class: structural -->
 
+<a id="termin-08"></a>
 # Termin 08: Zwischenpräsentation & Art Review
 ### 09.12.2026 · Block 4
 
@@ -1473,6 +1510,7 @@ $\rightarrow$ Abgabe der Checkliste als Foto im Elearning.
 
 <!-- _class: structural -->
 
+<a id="termin-09"></a>
 # Termin 09: Bild-Text-Integration & Effekte
 ### 16.12.2026 · Block 4
 
@@ -1629,6 +1667,7 @@ $\rightarrow$ Abgabe des aktualisierten Plakates im PDF-Format im Elearning.
 
 <!-- _class: structural -->
 
+<a id="termin-10"></a>
 # Termin 10: Layout-Feinschliff & Detailtypo
 ### 23.12.2026 · Block 4
 
@@ -1787,6 +1826,7 @@ h1, h2, h3, p, strong {
 
 <!-- _class: structural -->
 
+<a id="termin-11"></a>
 # Termin 11: Demo Day & Vernissage
 ### 13.01.2027 · Block 4
 
