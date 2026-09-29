@@ -156,10 +156,19 @@ h1, h2, h3, p, strong {
 - **Thema:**
   - *„Mein Lieblingsort“* (in Würzburg oder am eigenen Heimat-/Wohnort).
 - **Bildmaterial & Perspektiven:**
-  - **Mindestens 5 eigene Fotos** im finalen Layout integriert.
+  - **Eigene Bilder** im finalen Layout integriert.
   - Abwechslungsreicher Perspektiven-Mix: *Totale, Halbtotale & Detail*
 - **Texte & Typografie:**
   - Kurze, prägnante Copy (Headline, Subline, kurze Ortsbeschreibung/Fakten)
+
+---
+### Wie finde ich denn meinen Lieblingsort?
+- Welche Geschichten verbinde ich mit dem Ort?
+- In welchen Situationen bin ich hier am glücklichsten?
+- Welche Stimmung hat der Ort auf mich?
+- Welche Standortfaktoren hat der Ort (räumliche Nähe, Bageschlossenheit, Trubel)?
+- Zu welcher Tageszeit ist dieser Ort am Schönsten?
+- Wem ist der Ort noch bekannt, welche Assoziationen hat er für andere?
 
 
 ---
