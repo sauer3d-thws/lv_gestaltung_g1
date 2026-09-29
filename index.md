@@ -203,7 +203,7 @@ h1, h2, h3, p, strong {
 
 | Termin | Datum | Thema & Meilenstein | Abgabe im E-Learning | Format |
 | :---: | :---: | :--- | :--- | :---: |
-| **T01** | 07.10. | Konzept & Moodboard | Moodboard zum Lieblingsort (Farben, Keywords) | PDF / PPTX |
+| **T01** | 14.10. | Konzept & Moodboard | Moodboard zum Lieblingsort (Farben, Keywords) | PDF / PPTX |
 | **T02** | 28.10. | RAW-Entwicklung | 3–5 entwickelte Bildmotive (Belichtung, Schärfe) | `.psd` |
 | **T03** | 04.11. | Farbe & Schnittmasken | Finales Hauptmotiv mit Schnittmasken & Kurven | `.psd` |
 | **T04** | 11.11. | Freistellen & Maskieren | Freigestelltes Bildelement als Smart-Objekt | `.psd` |
